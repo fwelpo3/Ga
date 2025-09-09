@@ -1,0 +1,5 @@
+{
+  "name": "V6 KI",
+  "description": "Ein professionelles Werkzeug zur Erstellung und Verwaltung von KNX-Gruppenadressen nach offiziellen Richtlinien. Erstellen Sie Projekte mit Bereichen, Räumen und Geräten und generieren Sie flexible ETS-XML- und CSV-Exporte.",
+  "requestFramePermissions": []
+}
